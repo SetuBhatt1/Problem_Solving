@@ -2,8 +2,6 @@
 using namespace std;
 #define n 6
 
-
-
 void printArr(int a[])
 {
     for(int i=0; i<n; i++)
